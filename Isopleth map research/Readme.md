@@ -21,6 +21,6 @@ Here are some of the most important ispleth maps :<br>
 
 
 ## Sources :
-http://www.aegis.jsu.edu/mhill/phygeogone/isoplth.html
-https://geographyfieldwork.com/DataPresentationMappingTechniques.htm
+http://www.aegis.jsu.edu/mhill/phygeogone/isoplth.html <br>
+https://geographyfieldwork.com/DataPresentationMappingTechniques.htm <br>
 http://perezmaps.blogspot.fr/2011/04/isopleth-maps.html
